@@ -1,4 +1,4 @@
-# Simple To-Do List Application
+
 
 todo_list = []
 
