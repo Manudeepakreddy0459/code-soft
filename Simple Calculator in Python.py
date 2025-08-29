@@ -1,4 +1,4 @@
-# Simple Calculator in Python
+
 
 def calculator():
     print("----- Simple Calculator -----")
